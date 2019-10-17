@@ -9,6 +9,7 @@ int main(void)
 	//lkjoijlkjoij;
 
 	printf("時雨はかわいい！！！！！！。\n");
+	printf("ゲッダン☆\n");
 	
 	_getch();
 	return 0;
