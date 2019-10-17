@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include<iostream>
+using namespace std;
 
 int main(void)
 {
@@ -13,7 +14,8 @@ int main(void)
 
 	printf("時雨はかわいい！！！！！！。\n");
 	printf("ゲッダン☆\n");
-	cin >> numA;
+	cout << "数値入力\n";
+	cin >> numA;//両立できるのね
 	cout << numA<<"番号\n";
 	
 	_getch();
