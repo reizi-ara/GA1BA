@@ -6,6 +6,8 @@ int main(void)
 	printf("テステス、草に草をはやすな。\n");
 
 
+	//kimuratuiki
+
 	//lkjoijlkjoij;
 
 	printf("時雨はかわいい！！！！！！。\n");
