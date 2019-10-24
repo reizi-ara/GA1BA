@@ -17,6 +17,7 @@ int main(void)
 	cout << "”’l“ü—Í\n";
 	cin >> numA;//—¼—§‚Å‚«‚é‚Ì‚Ë
 	cout << numA<<"”Ô†\n";
+	cout << "ƒpƒDƒA" << numA;
 	
 	_getch();
 	return 0;
