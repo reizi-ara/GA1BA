@@ -20,6 +20,9 @@ int main(void)
 	
 	_getch();
 	return 0;
+<<<<<<< HEAD
 
 	
+=======
+>>>>>>> parent of ee0f5f3... testEˆå±¥æ­´EE
 }
