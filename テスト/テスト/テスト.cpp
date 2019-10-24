@@ -16,8 +16,10 @@ int main(void)
 	printf("ゲッダン☆\n");
 	cout << "数値入力\n";
 	cin >> numA;//両立できるのね
-	cout << "パゥアーーーーー" << numA;
+	cout << "パゥア" << numA;
 	
 	_getch();
 	return 0;
+
+	//aiehgiahgihdsiughsiung
 }
